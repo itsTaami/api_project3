@@ -1,1 +1,8 @@
 fastapi[all]
+uvicorn
+scikit-learn
+joblib
+python-multipart
+supabase
+pandas
+pydantic
